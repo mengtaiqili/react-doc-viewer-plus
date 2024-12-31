@@ -42,6 +42,20 @@ function App() {
 }
 ```
 
+## Preview
+
+### Image Preview
+![Image Preview](./images/image-preview.png)
+
+### PDF Preview
+![PDF Preview](./images/pdf-preview.png)
+
+### Office Preview
+![Office Preview](./images/office-preview.png)
+
+### Video Preview
+![Video Preview](./images/video-preview.png)
+
 ## Props
 
 | Prop | Type | Description |
