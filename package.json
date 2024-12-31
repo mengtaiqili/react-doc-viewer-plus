@@ -1,6 +1,6 @@
 {
   "name": "react-doc-viewer-plus",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A powerful document viewer component for React that supports various file formats including images, PDF, Office documents, OFD files and videos",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mengtaiqili/doc-viewer-plus.git"
+    "url": "git+https://github.com/mengtaiqili/react-doc-viewer-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/mengtaiqili/doc-viewer-plus/issues"
+    "url": "https://github.com/mengtaiqili/react-doc-viewer-plus/issues"
   },
-  "homepage": "https://github.com/mengtaiqili/doc-viewer-plus#readme"
+  "homepage": "https://github.com/mengtaiqili/react-doc-viewer-plus#readme"
 }
