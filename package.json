@@ -1,0 +1,49 @@
+{
+  "name": "react-doc-viewer-plus",
+  "version": "1.0.2",
+  "description": "A powerful document viewer component for React that supports various file formats including images, PDF, Office documents, OFD files and videos",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "document-viewer",
+    "pdf-viewer",
+    "office-viewer",
+    "ofd-viewer",
+    "image-viewer",
+    "video-player"
+  ],
+  "author": "mengtaiqili",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "antd": ">=4.0.0",
+    "@ant-design/icons": ">=4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^4.9.0",
+    "rollup": "^2.79.1",
+    "@rollup/plugin-typescript": "^8.5.0",
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "tslib": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengtaiqili/doc-viewer-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mengtaiqili/doc-viewer-plus/issues"
+  },
+  "homepage": "https://github.com/mengtaiqili/doc-viewer-plus#readme"
+}
